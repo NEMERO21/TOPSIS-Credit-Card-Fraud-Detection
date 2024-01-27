@@ -24,11 +24,11 @@ The project uses the following techniques and models:
 
 ### Machine Learning Models
 
-1. RandomForestClassifier
+1. Random Fores tClassifier
 2. Support Vector Machine (SVM)
-3. DecisionTreeClassifier
-4. LogisticRegression
-5. GaussianNB
+3. Decision Tree Classifier
+4. Logistic Regression
+5. Gaussian NB
 
 ## Installation
 
