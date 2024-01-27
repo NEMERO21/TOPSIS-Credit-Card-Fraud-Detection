@@ -47,7 +47,9 @@ pip install -r requirements.txt
    ```
    
 2. **Run the code:**
-   ```python Sampling_Assignment.ipynb
+   ```bash
+   python Sampling_Assignment.ipynb
+   ```
 
 ## Results
 The code generates accuracy results for different combinations of sampling techniques and machine learning models. The best sampling techniques for each model are also displayed.
