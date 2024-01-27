@@ -24,7 +24,7 @@ The project uses the following techniques and models:
 
 ### Machine Learning Models
 
-1. Random Fores tClassifier
+1. Random Forest Classifier
 2. Support Vector Machine (SVM)
 3. Decision Tree Classifier
 4. Logistic Regression
