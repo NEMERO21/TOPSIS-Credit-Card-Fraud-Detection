@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection
+# TOPSIS Credit Card Fraud Detection
 
 This project explores the use of different sampling techniques and machine learning models for credit card fraud detection. The goal is to evaluate the performance of various combinations of sampling methods and models to find the best approach for handling imbalanced datasets.
 
